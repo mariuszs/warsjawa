@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<InsuranceProduct>
+		<type>CATASTROPHIC</type>
+		<maximumPersonAge>25</maximumPersonAge>
+		<!-- more stuff -->
+	</InsuranceProduct>
+
+	<InsuranceProduct>
+		<type>AMBULATORY</type>
+		<maximumPersonAge>45</maximumPersonAge>
+		<goals>
+			<goal>VACCINATIONS</goal>
+		</goals>
+		<!-- more stuff -->
+	</InsuranceProduct>
+
+	<InsuranceProduct>
+		<type>HOSPITALIZATION</type>
+		<maximumPersonAge>45</maximumPersonAge>
+		<goals>
+			<goal>COVER_TREATMENT_EXPENSES</goal>
+		</goals>
+		<!-- more stuff -->
+	</InsuranceProduct>
+
+</products>
